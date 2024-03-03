@@ -1,7 +1,5 @@
 '''
 The code below creates a user based recommendation system on a small dataset (100k rows) that can be ran on a local environment. 
-It is intended to insure the collaborative based filter algorithm works, BEFORE deploying system to analyze a much larger dataset
-using Elastic Map Reduce (EMR) from AWS
 Note, I will not be including hyper tuning capablity do to it's computational intensity.
 '''
 
